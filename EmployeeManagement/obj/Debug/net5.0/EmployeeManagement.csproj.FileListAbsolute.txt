@@ -37,3 +37,4 @@ J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManag
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Departments\Index.cshtml.g.cs
+J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\libman.json

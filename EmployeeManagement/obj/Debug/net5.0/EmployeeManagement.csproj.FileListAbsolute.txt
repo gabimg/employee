@@ -20,7 +20,6 @@ J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManag
 j:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\staticwebassets\EmployeeManagement.StaticWebAssets.Manifest.cache
 j:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\staticwebassets\EmployeeManagement.StaticWebAssets.xml
 j:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\scopedcss\bundle\EmployeeManagement.styles.css
-J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.csprojAssemblyReference.cache
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\EmployeeManagement.Views.dll
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\EmployeeManagement.Views.pdb
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.RazorAssemblyInfo.cache
@@ -33,3 +32,8 @@ J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManag
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.Views.pdb
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.csproj.CopyComplete
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.csprojAssemblyReference.cache
+J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Departments\Index.cshtml.g.cs

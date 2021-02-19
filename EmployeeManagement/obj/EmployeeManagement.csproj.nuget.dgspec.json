@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\Eu\\emp_m\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {}
+    "F:\\Proiecte\\employeee\\emplyeee\\EmployeeManagement\\EmployeeManagement.csproj": {}
   },
   "projects": {
-    "J:\\Eu\\emp_m\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {
+    "F:\\Proiecte\\employeee\\emplyeee\\EmployeeManagement\\EmployeeManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\Eu\\emp_m\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+        "projectUniqueName": "F:\\Proiecte\\employeee\\emplyeee\\EmployeeManagement\\EmployeeManagement.csproj",
         "projectName": "EmployeeManagement",
-        "projectPath": "J:\\Eu\\emp_m\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+        "projectPath": "F:\\Proiecte\\employeee\\emplyeee\\EmployeeManagement\\EmployeeManagement.csproj",
         "packagesPath": "C:\\Users\\corre\\.nuget\\packages\\",
-        "outputPath": "J:\\Eu\\emp_m\\EmployeeManagement\\EmployeeManagement\\obj\\",
+        "outputPath": "F:\\Proiecte\\employeee\\emplyeee\\EmployeeManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

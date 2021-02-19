@@ -20,7 +20,6 @@ J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManag
 <<<<<<< HEAD
 <<<<<<< master
 =======
-=======
 >>>>>>> 48512747ca9d383c78f2ac18a71c8886f9ff4204
 j:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\staticwebassets\EmployeeManagement.StaticWebAssets.Manifest.cache
 j:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\staticwebassets\EmployeeManagement.StaticWebAssets.xml
@@ -43,7 +42,6 @@ J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\_
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Departments\Index.cshtml.g.cs
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\libman.json
-<<<<<<< HEAD
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\bin\Debug\net5.0\appsettings.Development.json
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\bin\Debug\net5.0\appsettings.json
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\bin\Debug\net5.0\libman.json
@@ -85,5 +83,3 @@ F:\Proiecte\employeee\emplyeee\EmployeeManagement\obj\Debug\net5.0\EmployeeManag
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.genruntimeconfig.cache
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.csproj.CopyComplete
 >>>>>>> local
-=======
->>>>>>> 48512747ca9d383c78f2ac18a71c8886f9ff4204

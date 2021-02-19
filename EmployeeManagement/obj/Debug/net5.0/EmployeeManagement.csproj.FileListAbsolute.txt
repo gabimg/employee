@@ -7,22 +7,21 @@ J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\EmployeeManag
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\EmployeeManagement.dll
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\ref\EmployeeManagement.dll
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\EmployeeManagement.pdb
-J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.csprojAssemblyReference.cache
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.AssemblyInfoInputs.cache
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.AssemblyInfo.cs
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.csproj.CoreCompileInputs.cache
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
-J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\staticwebassets\EmployeeManagement.StaticWebAssets.Manifest.cache
-J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\staticwebassets\EmployeeManagement.StaticWebAssets.xml
-J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\scopedcss\bundle\EmployeeManagement.styles.css
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.RazorTargetAssemblyInfo.cache
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.dll
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\ref\EmployeeManagement.dll
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.pdb
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.genruntimeconfig.cache
+<<<<<<< HEAD
 <<<<<<< master
 =======
+=======
+>>>>>>> 48512747ca9d383c78f2ac18a71c8886f9ff4204
 j:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\staticwebassets\EmployeeManagement.StaticWebAssets.Manifest.cache
 j:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\staticwebassets\EmployeeManagement.StaticWebAssets.xml
 j:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\scopedcss\bundle\EmployeeManagement.styles.css
@@ -44,6 +43,7 @@ J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\_
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Departments\Index.cshtml.g.cs
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\libman.json
+<<<<<<< HEAD
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\bin\Debug\net5.0\appsettings.Development.json
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\bin\Debug\net5.0\appsettings.json
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\bin\Debug\net5.0\libman.json
@@ -85,3 +85,5 @@ F:\Proiecte\employeee\emplyeee\EmployeeManagement\obj\Debug\net5.0\EmployeeManag
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.genruntimeconfig.cache
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.csproj.CopyComplete
 >>>>>>> local
+=======
+>>>>>>> 48512747ca9d383c78f2ac18a71c8886f9ff4204

@@ -1,0 +1,17 @@
+img {
+    width: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.btn {
+    min-width: 75px;
+}
+
+/*.employee-list img,
+.employee-details img {
+    display: block;
+    width: 200px;
+    max-width: 100%;
+    margin: 0 auto;
+}*/

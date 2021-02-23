@@ -12,9 +12,9 @@ namespace EmployeeManagement.Controllers
     {
         private readonly IEmployeeRepository _employeeRepository;
 
-        public HomeController()
+        public HomeController(IEmployeeRepository employeeRepository)
         {
-            _employeeRepository = new MockEmployeeRepository();
+            _employeeRepository = employeeRepository;
         }
 
         public ViewResult Index()
@@ -22,7 +22,7 @@ namespace EmployeeManagement.Controllers
             var model = _employeeRepository.GetAllEmployee();
             return View(model);
         }
-        
+
         public ViewResult Details(int? id)
         {
             HomeDetailsViewModel homeDetailsViewModel = new HomeDetailsViewModel()

@@ -44,6 +44,9 @@ J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\_
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Departments\Index.cshtml.g.cs
 J:\Eu\emp_m\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\libman.json
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 2bea0d48141fcd3091190141617585beda63b206
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\bin\Debug\net5.0\appsettings.Development.json
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\bin\Debug\net5.0\appsettings.json
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\bin\Debug\net5.0\libman.json
@@ -56,7 +59,10 @@ F:\Proiecte\employeee\emplyeee\EmployeeManagement\bin\Debug\net5.0\ref\EmployeeM
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\bin\Debug\net5.0\EmployeeManagement.pdb
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\bin\Debug\net5.0\EmployeeManagement.Views.dll
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\bin\Debug\net5.0\EmployeeManagement.Views.pdb
+<<<<<<< HEAD
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.csprojAssemblyReference.cache
+=======
+>>>>>>> 2bea0d48141fcd3091190141617585beda63b206
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.AssemblyInfoInputs.cache
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.AssemblyInfo.cs
@@ -84,6 +90,11 @@ F:\Proiecte\employeee\emplyeee\EmployeeManagement\obj\Debug\net5.0\ref\EmployeeM
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.pdb
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.genruntimeconfig.cache
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.csproj.CopyComplete
+<<<<<<< HEAD
 >>>>>>> local
 =======
 >>>>>>> 48512747ca9d383c78f2ac18a71c8886f9ff4204
+=======
+F:\Proiecte\employeee\emplyeee\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+F:\Proiecte\employeee\emplyeee\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.csprojAssemblyReference.cache
+>>>>>>> 2bea0d48141fcd3091190141617585beda63b206

@@ -8,6 +8,30 @@ img {
     min-width: 75px;
 }
 
+.employeePhoto {
+    position: relative;
+    padding-top: 51.61458%;
+    display: block;
+    overflow: hidden;
+}
+.employeePhoto img {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    object-position: center;
+    transform: translate(0,-50%);
+    -webkit-transform: translate(0,-50%);
+    -moz-transform: translate(0,-50%);
+}
+
+.validation-summary-valid ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
 .validation-summary-errors ul {
     list-style: none;
     margin: 0 0 1rem;

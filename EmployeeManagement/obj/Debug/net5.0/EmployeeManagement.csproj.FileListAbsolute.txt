@@ -1,4 +1,3 @@
-F:\Proiecte\employeee\emplyeee\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.csprojAssemblyReference.cache
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.AssemblyInfoInputs.cache
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.AssemblyInfo.cs
@@ -71,3 +70,4 @@ F:\Proiecte\employeee\emplyeee\EmployeeManagement\obj\Debug\net5.0\EmployeeManag
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.genruntimeconfig.cache
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\bin\Debug\net5.0\Humanizer.dll
 F:\Proiecte\employeee\emplyeee\EmployeeManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Proiecte\employeee\emplyeee\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.csprojAssemblyReference.cache

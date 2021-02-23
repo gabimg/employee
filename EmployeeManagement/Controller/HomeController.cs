@@ -12,9 +12,9 @@ namespace EmployeeManagement.Controllers
     {
         private readonly IEmployeeRepository _employeeRepository;
 
-        public HomeController()
+        public HomeController(IEmployeeRepository employeeRepository)
         {
-            _employeeRepository = new MockEmployeeRepository();
+            _employeeRepository = employeeRepository;
         }
 
         public ViewResult Index()
